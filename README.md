@@ -256,3 +256,6 @@ This repository serves as the official landing page for Project64. The software 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Project64 today!**
+
+---
+**Last updated:** 2026-09-10 18:50:48 UTC
